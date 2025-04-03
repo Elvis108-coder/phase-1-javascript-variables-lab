@@ -58,7 +58,7 @@ fork** button.
 
 **3.** Make sure you're in `Development/code/phase-1` (or wherever you're
 storing your code for the course) and clone the repo to your local machine with
-`git clone` followed by the git URL you copied.
+`git clone` followed by the git URL you caopied.
 
 ```console
 $ git clone git@github.com:your-github-username/phase-1-javascript-variables-lab.git
